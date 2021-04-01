@@ -1,4 +1,9 @@
 # loginMonitor
+![loginMonitor](https://img.shields.io/badge/Python-3.7-green)
+![loginMonitor](https://img.shields.io/badge/Celery-5.0.5-blue)
+![loginMonitor](https://img.shields.io/badge/Redis-3.5.3-red)
+![loginMonitor](https://img.shields.io/badge/pyppeteer-0.2.2-yellow)
+
 
 `Pyppeteer` 自动保持登陆状态。
 
